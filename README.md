@@ -21,7 +21,8 @@ mini_css_project/
 
 ## 📷 Preview
 
-> _Add a screenshot or GIF here if available_
+![camera image](https://github.com/MohanChoukse/mini-css-project/blob/main/photo.jpg)
+
 
 ## 🛠️ Technologies Used
 
